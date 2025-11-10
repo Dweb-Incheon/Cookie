@@ -2,7 +2,7 @@
 
 #### Dweb ❌ Incheon National University (INU)
 
-## 🌟 Chatbot Project in Web
+## 🌟 Cryptography and Web Authentication
 
 ⚠️ Copyright © 2025. _Dweb_ All Rights Reserved.
 
