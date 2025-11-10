@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+npm-debug.log
+package-lock.json
+
+# Environment files
+.env
+*.log
+
+# Private keys (DO NOT COMMIT)
+*.pem
+!ec-public-key.pem   # Allow public key to be tracked if needed
+
+# OS-specific files
+.DS_Store
+Thumbs.db
